@@ -610,7 +610,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {
 .main-timeline:before {
     content: "";
     width: 2px;
-    height: 84%;
+    height: 98%;
     background: #b2c1ce;
     position: absolute;
     top: 1.5%;
